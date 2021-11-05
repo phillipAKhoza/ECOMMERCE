@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# ECOMMERCE APPLICATION (STILL UNDER CONSTRUTION)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+this project is built using Reactjs for the FrontEnd, Nodejs and MongoDB for backend.
 
-## Available Scripts
+## Authour: [Phillip anton Khoza](https://www.phillip-dev.com/)
 
 In the project directory, you can run:
 
