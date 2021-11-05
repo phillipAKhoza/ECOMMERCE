@@ -15,7 +15,7 @@ font-weight: 500;
 const Announcement = () => {
     return (
         <Container>
-            Super Deal! get free shipments if you shop for items that cost more than R500
+            Super Deal! get free delivery for items that over R500
         </Container>
     )
 }
